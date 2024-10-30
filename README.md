@@ -15,10 +15,3 @@ In this repository, you’ll find:
 
 This repository serves as a learning tool and a log of my growth in coding. I plan to update it regularly with new code and projects as I advance through my studies and practice in C programming.
 
-## Getting Started
-
-To try out the code in this repository:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/suji0028/C-Language.git
